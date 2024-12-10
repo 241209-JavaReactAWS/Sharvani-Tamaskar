@@ -1,25 +1,17 @@
 body{
     background-image: linear-gradient(MediumPurple, whitesmoke);
     background-attachment: fixed;
-    padding: 80px 3;
+    padding: 80px 0;
     
 }
 
-#aboutMe-id{
+.myClass{
     text-align: center;
     padding: 80px 0;
     border: 5px solid MediumPurple;
     background-color: whitesmoke;
     font-family:"Monaco ", monospace;
-}
-
-#threeFacts-id{
-    text-align: center;
-    padding: 80px 0;
-    border: 5px solid MediumPurple;
-    background-color: whitesmoke;
-    font-family:"Monaco ", monospace;
-
+    /*box-shadow: 5px 5px 5px MediumSlateBlue;*/
 }
 
 .myul{
@@ -28,5 +20,5 @@ body{
 }
 
 .myli:hover{
-    background-color: rgb(146, 52, 213);
+    background-color: MediumSlateBlue;
 }
