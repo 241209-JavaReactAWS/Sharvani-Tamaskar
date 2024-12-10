@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(MediumPurple, whitesmoke);
+    background-attachment: fixed;
+    padding: 80px 3;
+    
+}
+
+#aboutMe-id{
+    text-align: center;
+    padding: 80px 0;
+    border: 5px solid MediumPurple;
+    background-color: whitesmoke;
+    font-family:"Monaco ", monospace;
+}
+
+#threeFacts-id{
+    text-align: center;
+    padding: 80px 0;
+    border: 5px solid MediumPurple;
+    background-color: whitesmoke;
+    font-family:"Monaco ", monospace;
+
+}
+
+.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+.myli:hover{
+    background-color: rgb(146, 52, 213);
+}
